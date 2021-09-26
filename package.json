@@ -1,0 +1,25 @@
+{
+  "name": "Trees-Revision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage -- verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahAbuKhurma/Trees-Revision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahAbuKhurma/Trees-Revision/issues"
+  },
+  "homepage": "https://github.com/AbdallahAbuKhurma/Trees-Revision#readme",
+  "devDependencies": {
+    "jest": "^27.2.2",
+    "supertest": "^6.1.6"
+  }
+}
